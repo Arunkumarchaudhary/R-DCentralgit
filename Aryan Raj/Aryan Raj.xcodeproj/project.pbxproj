@@ -16,6 +16,7 @@
 		982FDDD6284F8C6A00931372 /* Aryan_RajTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 982FDDD5284F8C6A00931372 /* Aryan_RajTests.swift */; };
 		982FDDE0284F8C6A00931372 /* Aryan_RajUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 982FDDDF284F8C6A00931372 /* Aryan_RajUITests.swift */; };
 		982FDDE2284F8C6A00931372 /* Aryan_RajUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 982FDDE1284F8C6A00931372 /* Aryan_RajUITestsLaunchTests.swift */; };
+		984E429F28648D8D00A063B6 /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 984E429E28648D8D00A063B6 /* LoginVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		982FDDDB284F8C6A00931372 /* Aryan RajUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Aryan RajUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		982FDDDF284F8C6A00931372 /* Aryan_RajUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aryan_RajUITests.swift; sourceTree = "<group>"; };
 		982FDDE1284F8C6A00931372 /* Aryan_RajUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aryan_RajUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		984E429E28648D8D00A063B6 /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		982FDDB2284F8C6900931372 = {
 			isa = PBXGroup;
 			children = (
+				984E429E28648D8D00A063B6 /* LoginVC.swift */,
 				982FDDBD284F8C6900931372 /* Aryan Raj */,
 				982FDDD4284F8C6A00931372 /* Aryan RajTests */,
 				982FDDDE284F8C6A00931372 /* Aryan RajUITests */,
@@ -260,6 +263,7 @@
 			files = (
 				982FDDC3284F8C6900931372 /* ViewController.swift in Sources */,
 				982FDDBF284F8C6900931372 /* AppDelegate.swift in Sources */,
+				984E429F28648D8D00A063B6 /* LoginVC.swift in Sources */,
 				982FDDC1284F8C6900931372 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
